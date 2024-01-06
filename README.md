@@ -13,7 +13,7 @@ Dataset link - [Download Dataset](https://drive.google.com/file/d/1sD3WFeY_0ulki
 - Train the model on parallel GPUs
 
 For beter understanding you can refer to the blogs 
-Blog Links
+Blog Link - [Intro blog](https://medium.com/@kunalmishra78/attention-is-all-you-need-paper-implementation-from-scratch-on-colab-7679289d1022) 
 
 
 
