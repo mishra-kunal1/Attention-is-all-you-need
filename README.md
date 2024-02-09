@@ -1,5 +1,7 @@
 # Training of Transformer architecture on a Free GPU for English to German Translation
 
+Implementation of research paper which has the core algorithm (the Transformers architecture) that all LLMs follow and that has been cited more than 100k times “Attention is all you Need” and tried to implement the transformer-based encoder-decoder model on Colab.
+
 This project involves training a Transformer model on Colab GPU to translate English sentences into German. The model is trained on a dataset containing 15,000 pairs of English and German sentences.
 Dataset link - [Download Dataset](https://drive.google.com/file/d/1sD3WFeY_0ulkiskkJFuuvDkDdxFWsAu1/view?usp=drive_link)
 
